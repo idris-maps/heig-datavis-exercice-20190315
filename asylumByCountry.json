@@ -1,0 +1,82 @@
+[
+  {
+    "country": "Canada",
+    "affected": 54
+  },
+  {
+    "country": "USA",
+    "affected": 21
+  },
+  {
+    "country": "Luxembourg",
+    "affected": 15
+  },
+  {
+    "country": "Germany",
+    "affected": 7
+  },
+  {
+    "country": "Switzerland",
+    "affected": 7
+  },
+  {
+    "country": "Norway",
+    "affected": 6
+  },
+  {
+    "country": "Netherlands",
+    "affected": 6
+  },
+  {
+    "country": "Australia",
+    "affected": 5
+  },
+  {
+    "country": "New Zealand",
+    "affected": 5
+  },
+  {
+    "country": "Austria",
+    "affected": 4
+  },
+  {
+    "country": "Iceland",
+    "affected": 4
+  },
+  {
+    "country": "Liechtenstein",
+    "affected": 3
+  },
+  {
+    "country": "Sweden",
+    "affected": 2
+  },
+  {
+    "country": "Malta",
+    "affected": 2
+  },
+  {
+    "country": "Finland",
+    "affected": 1
+  },
+  {
+    "country": "Korea",
+    "affected": 1
+  },
+  {
+    "country": "Czech Rep",
+    "affected": 1
+  },
+  {
+    "country": "Italy",
+    "affected": 1
+  },
+  {
+    "country": "Belgium",
+    "affected": 1
+  },
+  {
+    "country": "Spain",
+    "affected": 1
+  }
+]
